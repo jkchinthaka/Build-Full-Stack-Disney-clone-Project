@@ -6,7 +6,7 @@ function Header() {
   return (
     <div>
       <img
-        src={logo}
+        src={logso}
         alt="Logo"
         className="w-[80px] md:w-[115px] object-cover"
       />
